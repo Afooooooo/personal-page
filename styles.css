@@ -29,7 +29,7 @@ h1 {
     display: flex;
     gap: 30px;
     margin-bottom: 30px;
-    flex-direction: row-reverse; /* عکس سمت راست */
+    flex-direction: row-reverse; /* Ø¹Ú©Ø³ Ø³Ù…Øª Ø±Ø§Ø³Øª */
 }
 .profile-photo {
     
